@@ -12,6 +12,7 @@ steps for using this program after cloning repo
 
 
 <div class="image123">
-    <img src="https://github.com/rishabhjainfinal/AI-Games/blob/main/readme_req/default.PNG" alt="question" width="400" >
-    <img src="https://github.com/rishabhjainfinal/AI-Games/blob/main/readme_req/solved.PNG" alt="solved" width="400" >
+
+    <img src="https://github.com/rishabhjainfinal/AI-Games/blob/main/Sudoku/readme_req/default.PNG" alt="question" width="400" >
+    <img src="https://github.com/rishabhjainfinal/AI-Games/blob/main/Sudoku/readme_req/solved.PNG" alt="solved" width="400" >
 </div>
